@@ -1,11 +1,14 @@
 {
+  "id": "/index.html",
   "name": "To Dareen ❤️",
   "short_name": "Dareen",
+  "description": "A cute personalized app full of surprises for Dareen ❤️. Click cats, Doritos, or meat for fun messages and quizzes!",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ff9a9e",
   "theme_color": "#ff4d6d",
   "orientation": "portrait",
+  "categories": ["entertainment", "personal", "games"],
   "icons": [
     {
       "src": "icon-192.png",
